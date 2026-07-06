@@ -1,0 +1,9 @@
+data/
+.git/
+.dvc/
+*.dvc
+__pycache__/
+.venv/
+mlruns/
+outputs/
+README.md
